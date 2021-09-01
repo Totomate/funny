@@ -1,0 +1,19 @@
+{
+  "name": "@totomate/funny",
+  "version": "1.0.0",
+  "description": "Simple Funny Package from FunnyBot",
+  "repository": "https://github.com/totomate/funny",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Totomate",
+  "license": "ISC",
+  "keywords": [
+    "api",
+    "simple api",
+    "funny api",
+    "funnybot"
+  
+]
+}
