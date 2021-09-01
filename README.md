@@ -18,8 +18,8 @@ npm install @totomate/funny
 
 - Automatic Caps§
 ```js
-const { cap } = require("@totomate/funny");
-let somevalue = "hello"
+const  cap  = require("@totomate/funny");
+const somevalue = "hello"
 cap(somevalue) // returns Hello
 ```
 
