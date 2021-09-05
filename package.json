@@ -1,6 +1,6 @@
 {
   "name": "@totomate/funny",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple Funny Package from FunnyBot",
   "repository": "https://github.com/totomate/funny",
   "main": "index.js",
@@ -15,6 +15,5 @@
     "funny api",
     "funnybot",
     "totomate"
-  
-]
+  ]
 }
